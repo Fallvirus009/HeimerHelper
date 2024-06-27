@@ -3,7 +3,7 @@ import json
 import time
 import http
 
-apiKey = 'RGAPI-7274e517-dc78-441c-874d-e5a55cbd7d9a'
+apiKey = 'INSERT_API_KEY_HERE'
 accRegion = 'na1'
 region = 'americas'
 
